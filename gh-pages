@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta name="description" content="Pagina de anime y ovas">
+    <meta name="keywords" content="ovas,animes,japones,titanes de ataque,my hero academia,demon slayer,latino,español">
+    <title>Animestrong</title>
+    <link rel="stylesheet" type="text/css" href="CSS/index.css">
+</head>
+<body>
+    <div id="contenedor">
+        <header>
+            <div id="cabecera"></div>
+            <h1>ANIMESTRONG</h1>
+            <br><br>
+            <img src="ruta/logo.png" alt="logo">
+        </header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="Demonslayer.html">Demonslayer</a></li>
+                <li><a href="My hero academia.html">My hero academia</a></li>
+                <li><a href="Titanes de ataque">Titanes de ataque</a></li>
+            </ul>
+        </nav>
+        <aside>
+            <div class="buscar">
+                <h2>Buscar</h2>
+                <form>
+                    <input type="text" name="busqueda">
+                    <input type="submit" value="Buscar">
+                </form>
+            </div>
+        </aside>
+        <br>
+        <div>
+            <center> 
+                <img class="Portada" src="https://www.industriaanimacion.com/wp-content/uploads/2020/12/Cover-23.jpg" alt="anime">
+            </center>
+            <div class="clearfix"></div>
+            <section id="contenido">
+                <div class="articulo clearfix">
+                    <br>
+                    <center>
+                        <h2>Conócenos</h2>
+                    </center>
+                    <br>
+                    <center>
+                        <p class="conocenos">Animestrong: Ver anime online nunca fue tan fácil, en nuestra web vas a poder hacerte con todos tus
+                            animes favoritos y
